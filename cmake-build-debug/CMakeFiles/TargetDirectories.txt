@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/SimulacionCalor/cmake-build-debug/CMakeFiles/SimulacionCalor.dir
+C:/Users/User/CLionProjects/SimulacionCalor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/SimulacionCalor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

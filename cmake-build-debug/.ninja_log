@@ -1,0 +1,6 @@
+# ninja log v6
+1	326	7703032817731590	build.ninja	1b549abe14de934e
+18	98	7703032819037067	CMakeFiles/SimulacionCalor.dir/main.c.obj	b5eaf05369118bec
+99	184	7703032819839008	SimulacionCalor.exe	fba1007dad453ebf
+14	84	7703033292820045	CMakeFiles/SimulacionCalor.dir/main.c.obj	b5eaf05369118bec
+85	147	7703033293525407	SimulacionCalor.exe	fba1007dad453ebf
